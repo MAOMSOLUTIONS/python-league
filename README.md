@@ -12,7 +12,7 @@ User and Technical documentation
 
 # User Documentation
 
-This is a command-line application developed in Python that covers the requirements described in the appendix. The compressed test.zip file is delivered. You must unzip the file; from there it will display the test folder with the following files:
+This is a command-line application developed in Python that covers the requirements described in the appendix. 
 
 ![image](https://user-images.githubusercontent.com/2306656/186985312-8d035d15-892b-4e64-92d5-6b6ca240a286.png)
 
